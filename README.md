@@ -1,21 +1,21 @@
 List of my Favorite Technologies
 =======================================
 
-- BackEnd - ASP.NET
-- FrontEnd - Angular 5
-- IDE - Visual Studio
-- CSS Framework - Materialize CSS
-- Communication - Slack
-- Build Server - Team City
-- JS Build Tool - Webpack
-- Text Editor - VS Code
-- Test Runner - XUnit
-- IoC - AutoFac
-- ORM - Entity Framework
-- NoSQL - MongoDb
-- RDBMS - SQL Server
-- Cloud Hosting - Azure and Heroku
-- JSON or XML - Json
-- API Testing - Postman
-- Web Sockets - Signalr
-- Mobile Development - NativeScript
+- [BackEnd - ASP.NET](https://www.asp.net/)
+- [FrontEnd - Angular 5](https://angular.io/)
+- [IDE - Visual Studio](https://www.visualstudio.com/)
+- [CSS Framework - Materialize CSS](http://materializecss.com/)
+- [Communication - Slack](https://slack.com/)
+- [Build Server - Team City](https://www.jetbrains.com/teamcity/)
+- [JS Build Tool - Webpack](https://webpack.js.org/)
+- [Text Editor - VS Code](https://code.visualstudio.com/)
+- [Test Runner - NUnit](http://nunit.org/)
+- [IoC - AutoFac](https://autofac.org/)
+- [ORM - Entity Framework](https://docs.microsoft.com/en-us/ef/)
+- [NoSQL - MongoDb](https://www.mongodb.com/)
+- [RDBMS - SQL Server](https://www.microsoft.com/en-us/sql-server/sql-server-2017)
+- [Cloud Hosting - Azure and Heroku](https://azure.microsoft.com/en-us/)
+- [JSON or XML - Json](https://www.json.org/)
+- [API Testing - Postman](https://www.getpostman.com/)
+- [Web Sockets - Signalr](https://www.asp.net/signalr)
+- [Mobile Development - NativeScript](https://www.nativescript.org/)
